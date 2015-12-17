@@ -52,10 +52,10 @@ default:pine_needles 33 70 53
 bones:bones 101 101 101
 vessels:steel_bottle 180 178 177
 homedecor:television 53 53 53
-homedecor:glass_table_small_round_b 184 184 184
+homedecor:glass_table_small_round_b 184 184 184 65
 stairs:stair_lapis 45 53 156
 homedecor:door_exterior_fancy_top_left 151 106 87
-stairs:stair_glass 194 194 227
+stairs:stair_glass 194 194 227 65
 default:meselamp 211 213 139
 ethereal:frost_wood 80 98 126
 cblocks:wood_yellow 128 99 55
@@ -73,7 +73,7 @@ farming:cotton_5 114 104 53
 stairs:stair_wool_orange 213 81 21
 homedecor:kitchen_cabinet_half 145 110 56
 cblocks:wood_pink 128 99 55
-stairs:corner_obsidianglass 19 21 23
+stairs:corner_obsidianglass 19 21 23 59
 stairs:corner_stonebrick 97 94 93
 beds:bed_bottom_orange 242 148 36
 homedecor:speaker 122 80 45
@@ -93,7 +93,7 @@ stairs:corner_diamond 135 217 223
 stairs:corner_mossycobble 86 90 68
 stairs:invcorner_crystal_block 95 158 165
 xanadu:stained_wood_red 168 11 16
-homedecor:glass_table_small_square_t 183 183 183
+homedecor:glass_table_small_square_t 183 183 183 65
 xanadu:desert_cobble5 95 82 48
 stairs:stair_stone5 119 115 110
 stairs:slab_shingles_terracotta 194 93 46
@@ -135,7 +135,7 @@ stairs:slab_bakedclay_magenta 118 93 119
 framedglass:steel_framed_obsidian_glassblack 194 194 194
 castle:arrowslit_desertstonebrick 125 76 58
 farming:wheat_7 192 181 81
-homedecor:glass_table_large_b 199 199 199
+homedecor:glass_table_large_b 199 199 199 65
 stairs:corner_obsidian 19 21 24
 xanadu:glass2 138 151 156 24
 stairs:invcorner_steel 194 194 194
@@ -170,7 +170,7 @@ castle:very_long_tapestry_green 92 216 28
 homedecor:oven 198 198 198
 default:obsidian 19 21 24
 farming:corn_3 105 144 65
-farming:coffee_cup_hot 181 169 141
+farming:coffee_cup_hot 181 169 141 120
 stairs:invcorner_pavement 90 93 97
 carpet:wallpaper_pink 176 139 138
 farming:raspberry_4 114 117 10
@@ -206,7 +206,7 @@ xanadu:steelblock1 97 97 97
 xanadu:flag_uk 164 104 138
 stairs:corner_sandstonebrick4 142 142 147
 lapis:pyrite_ore 97 94 93
-homedecor:glass_table_small_square_s 208 208 208
+homedecor:glass_table_small_square_s 208 208 208 65
 cblocks:stonebrick_grey 97 94 93
 ethereal:fence_frostwood 80 98 126
 stairs:slab_straw 210 182 67
@@ -255,7 +255,7 @@ farming:soil 95 64 39
 homedecor:glowlight_quarter_white 239 239 239
 flowers:mushroom_fertile_brown 106 79 72
 farming:pumpkin_3 55 100 14
-doors:door_obsidian_glass_t_2 16 16 16
+doors:door_obsidian_glass_t_2 16 16 16 59
 lucky_block:super_lucky_block 32 110 109
 stairs:stair_stained_wood_red 168 11 16
 stairs:stair_wool_red 168 17 17
@@ -284,7 +284,7 @@ stairs:invcorner_wool_yellow 254 225 15
 castle:arrowslit_sandstonebrick_cross 193 189 140
 homedecor:microwave_oven_locked 183 183 183
 castle:arrowslit_stone 97 94 93
-doors:door_obsidian_glass_b_1 16 16 16
+doors:door_obsidian_glass_b_1 16 16 16 59
 ethereal:crystal_moss 51 98 120
 stairs:corner_lapis 45 53 156
 xanadu:desert_whitesage 92 111 96
@@ -355,9 +355,9 @@ xpanes:bar_3 0 0 0
 ethereal:onion_5 75 178 133
 stairs:corner_crystal_block 95 158 165
 ethereal:bananagate_closed 161 130 85
-stairs:slab_cloud 255 255 255
+stairs:slab_cloud 202 211 211
 homedecor:potted_dandelion_white 121 57 34
-homedecor:glass_table_large_t 199 199 199
+homedecor:glass_table_large_t 199 199 199 65
 farming:cotton_3 97 120 41
 stairs:corner_bakedclay_orange 154 116 75
 default:tree 164 131 88
@@ -389,7 +389,7 @@ stairs:corner_snowbrick 238 239 255
 stairs:corner_bakedclay_dark_green 45 70 42
 stairs:stair_bakedclay_red 107 54 53
 ethereal:willow_trunk 178 158 129
-doors:door_obsidian_glass_t_1 16 16 16
+doors:door_obsidian_glass_t_1 16 16 16 59
 castle:pillars_cobble_bottom 88 84 82
 homedecor:door_closet_oak_top_left 157 129 78
 cblocks:wood_dark_grey 128 99 55
@@ -426,7 +426,7 @@ lapis:lapisblock 45 53 156
 ethereal:fiery_moss 134 27 9
 farming:grapes_7 93 112 52
 stairs:stair_snowbrick 238 239 255
-homedecor:glass_table_small_round_t 184 184 184
+homedecor:glass_table_small_round_t 184 184 184 65
 homedecor:door_glass_top_left 224 224 224
 more_chests:shared 140 108 65
 stairs:slab_birch_wood 196 154 93
@@ -442,9 +442,9 @@ stairs:stair_bakedclay_pink 183 150 160
 xpanes:bar_4 0 0 0
 stairs:stair_bakedclay_magenta 118 93 119
 castle:very_long_tapestry_blue 0 72 145
-stairs:invcorner_cloud 255 255 255
+stairs:invcorner_cloud 202 211 211
 cblocks:glass_dark_green 96 127 98 194
-stairs:slab_glass 194 194 227
+stairs:slab_glass 194 194 227 65
 xanadu:red3 128 76 76
 homedecor:door_glass_top_right 224 224 224
 bakedclay:brown 48 39 31
@@ -473,7 +473,7 @@ pie:scsk_3 155 3 5
 beds:bed_top_red 196 141 141
 stairs:corner_wool_orange 213 81 21
 stairs:corner_palm_wood 160 112 66
-vessels:glass_bottle 188 189 200
+vessels:glass_bottle 188 189 200 120
 castle:jailbars_7 96 96 96
 ethereal:bamboo_sprout 85 101 30
 castle:jailbars_14 96 96 96
@@ -577,14 +577,14 @@ xanadu:rainforest_guzmania 119 110 5
 paintings:cyan 126 139 106
 stairs:invcorner_bakedclay_dark_grey 64 64 64
 lucky_block:lucky_block 160 49 38
-homedecor:glass_table_small_square_b 183 183 183
+homedecor:glass_table_small_square_b 183 183 183 65
 homedecor:wood_table_small_square_s 119 86 53
 pie:meat_2 133 77 56
 stairs:slab_desert_stone1 178 138 94
 homedecor:projection_screen 207 207 207
 pie:meat_1 133 77 56
 xpanes:bar_9 0 0 0
-stairs:invcorner_glass 194 194 227
+stairs:invcorner_glass 194 194 227 65
 pie:meat_0 133 77 56
 ethereal:birchgate_open 196 154 93
 signs:sign_wall_red 63 63 63
@@ -724,7 +724,7 @@ castle:dungeon_stone 17 26 20
 stairs:invcorner_bakedclay_grey 150 148 149
 stairs:slab_bakedclay_cyan 60 96 100
 castle:autocraft 214 191 179
-farming:coffee_cup 173 160 128
+farming:coffee_cup 173 160 128 120
 stairs:corner_bakedclay_violet 70 52 83
 castle:anvil 93 93 93
 ethereal:crystal_block 95 158 165
@@ -838,7 +838,7 @@ farming:cotton_4 106 113 47
 castle:pillars_dungeonstone_bottom 17 26 20
 ethereal:banana_wood 161 130 85
 castle:ironbound_chest 126 107 79
-stairs:invcorner_obsidianglass 19 21 23
+stairs:invcorner_obsidianglass 19 21 23 59
 ethereal:fence_pine 221 184 128
 xanadu:sandstonebrick5 136 136 141
 bakedclay:dark_green 45 70 42
@@ -941,7 +941,7 @@ castle:jailbars_8 96 96 96
 xanadu:flag_romania 152 89 62
 xanadu:desert_stone5 186 142 98
 xanadu:grass_wheatgrass 150 188 182
-doors:door_glass_b_2 192 192 227
+doors:door_glass_b_2 192 192 227 65
 ethereal:crystal_spike 122 165 202
 lapis:sacred_ore 80 79 147
 teleport_potion:portal 194 234 234
@@ -1052,11 +1052,11 @@ xanadu:cactus_echinocereus 64 75 46
 xanadu:safe_fire 218 120 36
 homedecor:door_exterior_fancy_top_right 151 106 87
 doors:trapdoor 128 99 50
-doors:door_obsidian_glass_b_2 16 16 16
-doors:door_glass_t_2 192 192 227
+doors:door_obsidian_glass_b_2 16 16 16 59
+doors:door_glass_t_2 192 192 227 65
 xanadu:stained_wood_brown 49 33 19
 xpanes:bar_7 0 0 0
-doors:door_glass_t_1 192 192 227
+doors:door_glass_t_1 192 192 227 65
 stairs:corner_shingles_wood 142 81 41
 farming:seed_cotton 90 85 57
 wool:dark_grey 59 59 59
@@ -1088,7 +1088,7 @@ farming:cotton_7 92 69 37
 ethereal:frostwoodgate_open 80 98 126
 stairs:corner_wool_magenta 200 3 109
 stairs:slab_steel 194 194 194
-wine:glass_wine 217 190 217
+wine:glass_wine 217 190 217 120
 ethereal:scorchedgate_open 29 30 28
 ethereal:junglewoodgate_closed 54 37 11
 mobs:beehive 177 129 31
@@ -1151,13 +1151,13 @@ more_chests:wifi 81 149 178 115
 stairs:invcorner_shingles_terracotta 194 93 46
 ethereal:dry_shrub 122 25 25
 castle:very_long_tapestry_dark_green 32 102 0
-stairs:corner_glass 194 194 227
+stairs:corner_glass 194 194 227 65
 cblocks:wood_white 128 99 55
 xpanes:pane_1 255 255 255
 castle:pillars_desertstonebrick_bottom 125 76 58
 homedecor:armchair_black 74 74 74
 stairs:corner_mushroom 126 59 50
-stairs:slab_obsidianglass 19 21 23
+stairs:slab_obsidianglass 19 21 23 59
 homedecor:chains 71 71 71
 beds:bed_bottom_violet 155 36 206
 stairs:stair_copper 192 126 63
@@ -1220,7 +1220,7 @@ xpanes:bar_11 0 0 0
 farming:beanbush 114 164 47
 stairs:corner_wool_brown 86 42 0
 default:chest 140 108 65
-stairs:stair_obsidianglass 19 21 23
+stairs:stair_obsidianglass 19 21 23 59
 ethereal:mushroomgate_open 221 221 221
 ethereal:crystal_dirt 51 98 120
 ethereal:orange_tree_sapling 77 72 28
@@ -1248,7 +1248,7 @@ default:goldblock 230 201 29
 stairs:invcorner_wool_dark_grey 59 59 59
 castle:hides 241 210 151
 farming:melon_2 170 170 41
-stairs:stair_cloud 255 255 255
+stairs:stair_cloud 202 211 211
 stairs:invcorner_wool_pink 255 131 131
 castle:jail_door_t_2 78 78 78
 homedecor:potted_tulip 121 57 34
@@ -1264,7 +1264,7 @@ stairs:corner_wool_blue 0 72 145
 farming:wheat_1 107 174 32
 stairs:invcorner_bronze 185 110 15
 stairs:stair_wool_blue 0 72 145
-vessels:drinking_glass 205 213 228
+vessels:drinking_glass 205 213 228 120
 stairs:slab_wool_cyan 0 130 139
 ethereal:onion_4 59 174 124
 stairs:stair_shingles_asphalt 39 39 39
@@ -1374,11 +1374,11 @@ lapis:lazurite_brick 76 76 140
 xanadu:desert_stone2 150 106 64
 homedecor:wood_table_large_b 147 106 65
 castle:hole_sandstonebrick 193 189 140
-default:cloud 255 255 255
+default:cloud 202 211 211
 farming:beanpole_3 114 129 20
 default:grass_1 97 138 53
 signs:sign_hanging 16 12 6
-stairs:corner_cloud 255 255 255
+stairs:corner_cloud 202 211 211
 stairs:invcorner_stonebrick 97 94 93
 homedecor:door_closet_oak_bottom_right 157 129 78
 signs:sign_wall_brown 63 63 63
@@ -1461,12 +1461,12 @@ pie:pie_3 229 210 187
 homedecor:oven_locked 198 198 198
 stairs:slab_red1 111 40 40
 stairs:slab_wool_green 92 216 28
-doors:door_glass_b_1 192 192 227
+doors:door_glass_b_1 192 192 227 65
 stairs:slab_bakedclay_red 107 54 53
 stairs:stair_wool_pink 255 131 131
 ethereal:frost_tree 91 120 158
 framedglass:wooden_framed_obsidian_glass 128 99 55
-homedecor:glass_table_small_round_s 208 208 208
+homedecor:glass_table_small_round_s 208 208 208 65
 ethereal:coconut 54 21 0
 stairs:invcorner_stone6 140 140 143
 framedglass:steel_framed_obsidian_glassdarkgreen 194 194 194
@@ -1497,7 +1497,7 @@ mobs:slimeblock 32 119 69
 money:shop 140 108 65
 soccer:astroturf 66 111 32
 unknown 131 88 82
-xanadu:cloud_light 255 255 255
+xanadu:cloud_light 202 211 211
 xanadu:pumpkin 218 129 13
 xanadu:pumpkin_face 218 129 13
 xanadu:pumpkin_face_light 218 129 13
@@ -1510,3 +1510,13 @@ xanadu:xmas4 241 0 0
 xanadu:xmas5 255 239 3
 xanadu:xmas6 11 148 0
 xanadu:xmas7 96 174 254
+xanadu:cupcake 231 165 143
+xanadu:halloween1 248 0 41
+xanadu:halloween2 181 42 47
+xanadu:iced_coffee 194 179 167 120
+xanadu:milkshake_strawberry 232 198 197 120
+xanadu:milkshake_banana 227 215 204 120
+xanadu:pizza 192 129 46
+xanadu:arena_flower 121 74 0
+more_chests:giftbox_green 91 114 55
+more_chests:giftbox_red 152 74 61
