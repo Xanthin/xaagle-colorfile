@@ -1510,3 +1510,5 @@ xanadu:xmas4 241 0 0
 xanadu:xmas5 255 239 3
 xanadu:xmas6 11 148 0
 xanadu:xmas7 96 174 254
+xanadu:halloween1 255 156 0
+xanadu:halloween2 255 126 0
