@@ -1520,3 +1520,16 @@ xanadu:pizza 192 129 46
 xanadu:arena_flower 121 74 0
 more_chests:giftbox_green 91 114 55
 more_chests:giftbox_red 152 74 61
+more_chests:giftbox_yellow 116 151 91
+more_chests:giftbox_blue 91 92 120
+castle:pillars_mushroomtrunk_bottom 221 221 221
+castle:pillars_mushroomtrunk_top 221 221 221
+castle:pillars_mushroomtrunk_middle 221 221 221
+default:aspen_leaves 66 89 38
+default:aspen_sapling 82 110 43
+default:aspen_tree 218 197 166
+default:aspen_wood 209 198 169
+doors:trapdoor_steel 199 199 199
+doors:trapdoor_steel_open 206 206 206
+stairs:slab_glass2 138 151 156 24
+xanadu:compressed_cobble 89 87 79
